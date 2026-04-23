@@ -1,1 +1,1 @@
-# productmanagement_template-generation
+# pm-product-templates
